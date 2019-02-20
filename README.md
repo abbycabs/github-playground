@@ -1,4 +1,4 @@
 # GitHub Playground
 We're playing with GitHub!
 
-This is an example for #whale-songs \o/
+This is an example for #EugeneTech \o/
