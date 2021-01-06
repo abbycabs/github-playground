@@ -1,4 +1,4 @@
 # GitHub Playground
 We're playing with GitHub!
 
-This is an example for #whale-songs \o/
+Testing the readme changes approval
